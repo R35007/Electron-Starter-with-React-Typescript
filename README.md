@@ -16,18 +16,18 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-Runs the app in the development mode.\
-The Electron Browser window will automatically open.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm start:web`
-
 Builds the react app for production to the `build` folder and electron app in the `dist` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The .exe file will be generated in the `dist` folder.
+
+### `npm start:web`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ### `npm run build:web`
 
